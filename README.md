@@ -16,9 +16,9 @@ Update the URL with the following script:\
 **Step 4:**\
 Enjoy this shortcut 🤘
 
-**BONUS**\
-you can use this idea for whatsapp 😈 if you don't want to add a new contact in your phone, you can use this script:
+**BONUS:**\
+You can use this idea for whatsapp 😈 if you don't want to add a new contact in your phone, you can use this script:
 
-```data:text/html,<script>window.location.href='https://api.whatsapp.com/send?phone='+prompt("Please enter something:", "");</script>```
+```data:text/html,<script>window.location.href='https://api.whatsapp.com/send?phone='+prompt("Please enter the whatsapp number:", "");</script>```
 
 *Note: To add a number, you need the international prefix before the phone number*
